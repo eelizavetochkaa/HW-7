@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ 7", "ДЗ 7\ДЗ 7.csproj", "{02E4CB11-F098-4A7D-AFE1-045E472CF656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ 7.1", "ДЗ 7.1\ДЗ 7.1.csproj", "{05FC0AE1-ADC7-4D7F-8ACF-6385C51202DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E4CB11-F098-4A7D-AFE1-045E472CF656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E4CB11-F098-4A7D-AFE1-045E472CF656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E4CB11-F098-4A7D-AFE1-045E472CF656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E4CB11-F098-4A7D-AFE1-045E472CF656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FC0AE1-ADC7-4D7F-8ACF-6385C51202DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FC0AE1-ADC7-4D7F-8ACF-6385C51202DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FC0AE1-ADC7-4D7F-8ACF-6385C51202DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FC0AE1-ADC7-4D7F-8ACF-6385C51202DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44CD962-6686-4D11-891B-E9977914665D}
+	EndGlobalSection
+EndGlobal
